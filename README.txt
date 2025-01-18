@@ -2,7 +2,7 @@ SmartTrader README File
 
 Team Details:
 
-4. Name: Kartik Chindarkar
+1. Name: Kartik Chindarkar
 SJSU Email: kartik.chindarkar@sjsu.edu
 Student ID: 017583868
 
